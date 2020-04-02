@@ -10,6 +10,15 @@ Denne guide gennemgår hvad du skal være opmærksom på når du arbejder med DD
 ## Udstyr
 GoPro er kendt for at producere og udgive meget forskelligt udstyr til deres kameraer, og vi har i DD Labbet en bred vifte af udstyr tilgængeligt. Nedenfor kan du se en liste over hvad udstyret heder, hvad det bruges til, samt hvordan det ser ud. 
 
+### Hurtig Start Tjekliste
+* GoPro Kamera
+* Batteri
+* Protective Housing eller Case
+* Mounting Buckle
+* Tripod eller Mount (Adhesive, Chest, Head, Bite)
+* MikroSD kort
+* Oplader kabel
+
 ### Oversigt over GoPro Udstyr
 | Navn        | Bruges til           | Billede  |
 | ------------- |-------------| :-----:|
