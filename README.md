@@ -1,10 +1,13 @@
-# go-pro-kamera-og-udstyr
-Denne guide gennemgår hvad du skal være opmærksom på når du arbejder med DD Labbets GoPro kameraer.
+# GoPro Kamera & Udstyr Guide
+Denne guide gennemgår hvad du skal være opmærksom på når du arbejder med DD Labbets GoPro kameraer samt dets udstyr.
 
-GoPro 3
-GoPro Hero 5 Black
+## Kameraer
 
-Udstyr
+### To modeller:
+* GoPro 3
+* GoPro Hero 5 Black
+
+## Udstyr
 GoPro er kendt for at producere og udgive meget forskelligt udstyr til deres kameraer, og vi har i DD Labbet en bred vifte af udstyr tilgængeligt. Nedenfor kan du se en liste over hvad udstyret heder, hvad det bruges til, samt hvordan det ser ud. 
 
 ### Oversigt over GoPro Udstyr
