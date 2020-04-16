@@ -1,4 +1,5 @@
 # GoPro Kamera & Udstyr Guide
+GoPro er et lille kompakt Action Kamera der oprindeligt blev designet til brug under ekstreme vejr-, og naturforhold. Sidenhen er deres teknologi nået et punkt hvor det også giver mening at bruge GoPro kameraer i andre sammenhæng.
 Denne guide gennemgår hvad du skal være opmærksom på når du arbejder med DD Labbets GoPro kameraer samt dets udstyr.
 
 ## Kameraer
@@ -7,10 +8,18 @@ Denne guide gennemgår hvad du skal være opmærksom på når du arbejder med DD
 * GoPro 3
 * GoPro Hero 5 Black
 
+### Quick Start Guides:
+GoPro kameraer har ikke så mange knapper, da de er bygget til at skulle bruges i situationer hvor brugeren ikke altid har hænder fri til at arbejde med. Derfor kan GoPros interaktionsmønster være lidt forvirrende for en førstegangsbruger. Nedenfor er der vedhæftet en Quick-Start-Guide der gennemgår de forskellige knapper og indstillinger til vores GoPro 3 og GoPro Hero 5 kamera.
+
+* [GoPro 3 Quick Start Guide PDF](go-pro-3-quick-start-guide.pdf)
+* [GoPro Hero 5 Black Quick Start Guide PDF](go-pro-hero-5-black-quick-start-guide.pdf)
+
 ## Udstyr
-GoPro er kendt for at producere og udgive meget forskelligt udstyr til deres kameraer, og vi har i DD Labbet en bred vifte af udstyr tilgængeligt. Nedenfor kan du se en liste over hvad udstyret heder, hvad det bruges til, samt hvordan det ser ud. 
+GoPro er kendt for at producere meget forskelligt udstyr til deres kameraer, og vi har i DD Labbet en bred vifte af udstyr tilgængeligt. Nedenfor kan du se en liste over hvad udstyret hedder, hvad det bruges til, samt hvordan det ser ud. 
 
 ### Hurtig Start Tjekliste
+Du behøver ikke at skulle bruge al udstyret for at komme igang med at bruge Go Pro kameraerne. I nogle situationer kan det være nok med bare et kamera, et case og et stativ. Her kan du set en tjekliste over de komponenter du typisk skal bruge når du skal arbejde med et GoPro kamera.
+
 * GoPro Kamera
 * Batteri
 * Protective Housing eller Case
@@ -20,6 +29,7 @@ GoPro er kendt for at producere og udgive meget forskelligt udstyr til deres kam
 * Oplader kabel
 
 ### Oversigt over GoPro Udstyr
+Her kan du se en oversigt over det GoPro udstyr vi kan udbyde i DD-Labbet, samt en kort beskrivelse om hvad det bruges til.
 | Navn        | Bruges til           | Billede  |
 | ------------- |-------------| :-----:|
 | Mounting Buckle | Bruges til at skrue GoProets Protective Housing eller Casing fast til, hvorefter den kan påsættes et mount. |    ![alt text](go-pro-udstyr-billeder/mounting-buckle.jpg) |
